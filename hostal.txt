@@ -1,0 +1,3 @@
+room 1 sam
+room 2 empty
+room 3 joning on 16 dec
